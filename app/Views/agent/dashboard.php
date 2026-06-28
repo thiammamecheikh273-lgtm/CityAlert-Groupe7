@@ -23,7 +23,6 @@
         body{
             background:#f4f6f9;
         }
-
         .sidebar{
             position:fixed;
             top:0;
