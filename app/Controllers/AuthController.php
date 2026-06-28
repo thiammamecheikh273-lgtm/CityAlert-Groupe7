@@ -70,9 +70,6 @@ class AuthController
         require_once __DIR__ . '/../Views/auth/register.php';
     }
 
-    // ==========================
-    // CONNEXION
-    // ==========================
     public function login()
     {
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
